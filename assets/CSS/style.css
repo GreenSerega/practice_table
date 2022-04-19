@@ -6,6 +6,7 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 table{
+  min-width: 600px;
   width: 100%;
   max-width: 900px;
   margin: auto;
@@ -23,7 +24,6 @@ thead th:first-child{
   border-top-left-radius: var(--border-radius);
   background-color: #7887AB;
   font-weight:bold;
-  
 }
 thead th:last-child{
   border-top-right-radius: var(--border-radius);
